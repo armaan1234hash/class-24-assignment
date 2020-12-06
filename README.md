@@ -1,1 +1,1 @@
-# class-24-assignment
+# CP-2
